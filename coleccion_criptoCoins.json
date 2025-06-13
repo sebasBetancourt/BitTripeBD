@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "684b7fbd763d74d56ae1977f"
+  },
+  "nombre": "Bitcoin",
+  "simbolo": "BTC",
+  "blockchain": "Bitcoin",
+  "tipo": "moneda",
+  "precioActual": {
+    "usd": 103299
+  },
+  "capitalizacionMercado": 2000000000000,
+  "maxSupply": 21000000,
+  "algoritmo": "Proof of Work (SHA-256)"
+},
+{
+  "_id": {
+    "$oid": "684b7fbd763d74d56ae19780"
+  },
+  "nombre": "Ethereum",
+  "simbolo": "ETH",
+  "blockchain": "Ethereum",
+  "tipo": "token",
+  "precioActual": {
+    "usd": 2493.19
+  },
+  "capitalizacionMercado": 300000000000,
+  "maxSupply": null,
+  "algoritmo": "Proof of Stake"
+},
+{
+  "_id": {
+    "$oid": "684b7fbd763d74d56ae19781"
+  },
+  "nombre": "Binance Coin",
+  "simbolo": "BNB",
+  "blockchain": "Binance Smart Chain",
+  "tipo": "token",
+  "precioActual": {
+    "usd": 642.18
+  },
+  "capitalizacionMercado": 100000000000,
+  "maxSupply": 200000000,
+  "algoritmo": "Proof of Staked Authority"
+},
+{
+  "_id": {
+    "$oid": "684b7fbd763d74d56ae19782"
+  },
+  "nombre": "Solana",
+  "simbolo": "SOL",
+  "blockchain": "Solana",
+  "tipo": "moneda",
+  "precioActual": {
+    "usd": 144.13
+  },
+  "capitalizacionMercado": 70000000000,
+  "maxSupply": null,
+  "algoritmo": "Proof of History + Proof of Stake"
+},
+{
+  "_id": {
+    "$oid": "684b7fbd763d74d56ae19783"
+  },
+  "nombre": "Cardano",
+  "simbolo": "ADA",
+  "blockchain": "Cardano",
+  "tipo": "moneda",
+  "precioActual": {
+    "usd": 0.627
+  },
+  "capitalizacionMercado": 20000000000,
+  "maxSupply": 45000000000,
+  "algoritmo": "Ouroboros Proof of Stake"
+},
+{
+  "_id": {
+    "$oid": "684b7fbd763d74d56ae19784"
+  },
+  "nombre": "Ripple",
+  "simbolo": "XRP",
+  "blockchain": "XRP Ledger",
+  "tipo": "token",
+  "precioActual": {
+    "usd": 2.11
+  },
+  "capitalizacionMercado": 100000000000,
+  "maxSupply": 100000000000,
+  "algoritmo": "Consensus protocol"
+},
+{
+  "_id": {
+    "$oid": "684b7fbd763d74d56ae19785"
+  },
+  "nombre": "Dash",
+  "simbolo": "DASH",
+  "blockchain": "Dash",
+  "tipo": "moneda",
+  "precioActual": {
+    "usd": 29
+  },
+  "capitalizacionMercado": 340000000,
+  "maxSupply": 18900000,
+  "algoritmo": "Proof of Work (X11)"
+},
+{
+  "_id": {
+    "$oid": "684b7fbd763d74d56ae19786"
+  },
+  "nombre": "Dogecoin",
+  "simbolo": "DOGE",
+  "blockchain": "Dogecoin",
+  "tipo": "moneda",
+  "precioActual": {
+    "usd": 0.06
+  },
+  "capitalizacionMercado": 9000000000,
+  "maxSupply": null,
+  "algoritmo": "Proof of Work (Scrypt)"
+},
+{
+  "_id": {
+    "$oid": "684b7fbd763d74d56ae19787"
+  },
+  "nombre": "Polkadot",
+  "simbolo": "DOT",
+  "blockchain": "Polkadot",
+  "tipo": "token",
+  "precioActual": {
+    "usd": 6
+  },
+  "capitalizacionMercado": 7000000000,
+  "maxSupply": 1100000000,
+  "algoritmo": "Nominated Proof of Stake"
+},
+{
+  "_id": {
+    "$oid": "684b7fbd763d74d56ae19788"
+  },
+  "nombre": "Shiba Inu",
+  "simbolo": "SHIB",
+  "blockchain": "Ethereum",
+  "tipo": "token",
+  "precioActual": {
+    "usd": 0.000007
+  },
+  "capitalizacionMercado": 4000000000,
+  "maxSupply": 1000000000000000,
+  "algoritmo": "ERC-20"
+},
+{
+  "_id": {
+    "$oid": "684b7fbd763d74d56ae19789"
+  },
+  "nombre": "Litecoin",
+  "simbolo": "LTC",
+  "blockchain": "Litecoin",
+  "tipo": "moneda",
+  "precioActual": {
+    "usd": 150
+  },
+  "capitalizacionMercado": 10000000000,
+  "maxSupply": 84000000,
+  "algoritmo": "Proof of Work (Scrypt)"
+},
+{
+  "_id": {
+    "$oid": "684b7fbd763d74d56ae1978a"
+  },
+  "nombre": "Uniswap",
+  "simbolo": "UNI",
+  "blockchain": "Ethereum",
+  "tipo": "token",
+  "precioActual": {
+    "usd": 8
+  },
+  "capitalizacionMercado": 5000000000,
+  "maxSupply": 1000000000,
+  "algoritmo": "ERC-20"
+}]

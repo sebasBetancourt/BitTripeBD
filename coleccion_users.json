@@ -1,0 +1,314 @@
+[{
+  "_id": {
+    "$oid": "684b89446faba3c60f6b8ad0"
+  },
+  "nombre": "Javier Luna",
+  "email": "javier.luna@mail.com",
+  "fechaRegistro": "2025-06-07",
+  "pais": "Uruguay",
+  "wallets": [
+    {
+      "direccion": "0xJaviETH88",
+      "cripto": "ETH",
+      "balance": 0.8
+    }
+  ],
+  "cuentasExchange": [
+    {
+      "exchangeId": "684b857e6faba3c60f6b8ac4",
+      "usuarioExchange": "javi_luna",
+      "nivelVerificacion": "KYC completo",
+      "fechaAlta": "2025-06-07",
+      "balanceUSD": 2700
+    },
+    {
+      "exchangeId": "684b857e6faba3c60f6b8acf",
+      "usuarioExchange": "jluna_crypto",
+      "nivelVerificacion": "Básico",
+      "fechaAlta": "2025-06-08",
+      "balanceUSD": 150
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "684b89446faba3c60f6b8ad1"
+  },
+  "nombre": "Valentina Díaz",
+  "email": "valentina.diaz@mail.com",
+  "fechaRegistro": "2025-06-08",
+  "pais": "Venezuela",
+  "wallets": [
+    {
+      "direccion": "0xValeBTC999",
+      "cripto": "BTC",
+      "balance": 0.01
+    }
+  ],
+  "cuentasExchange": [
+    {
+      "exchangeId": "684b857e6faba3c60f6b8ac6",
+      "usuarioExchange": "vale_dz",
+      "nivelVerificacion": "Intermedio",
+      "fechaAlta": "2025-06-08",
+      "balanceUSD": 520
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "684b89446faba3c60f6b8ad2"
+  },
+  "nombre": "Daniel Herrera",
+  "email": "daniel.herrera@mail.com",
+  "fechaRegistro": "2025-06-09",
+  "pais": "Ecuador",
+  "wallets": [
+    {
+      "direccion": "0xDanDOT321",
+      "cripto": "DOT",
+      "balance": 50
+    }
+  ],
+  "cuentasExchange": [
+    {
+      "exchangeId": "684b857e6faba3c60f6b8acd",
+      "usuarioExchange": "danielh_ec",
+      "nivelVerificacion": "KYC completo",
+      "fechaAlta": "2025-06-09",
+      "balanceUSD": 1800
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "684b89446faba3c60f6b8ad3"
+  },
+  "nombre": "Isabella Reyes",
+  "email": "isabella.reyes@mail.com",
+  "fechaRegistro": "2025-06-10",
+  "pais": "Bolivia",
+  "wallets": [
+    {
+      "direccion": "0xIsaSHIB7",
+      "cripto": "SHIB",
+      "balance": 1200000
+    }
+  ],
+  "cuentasExchange": [
+    {
+      "exchangeId": "684b857e6faba3c60f6b8acb",
+      "usuarioExchange": "isa.reyes",
+      "nivelVerificacion": "Básico",
+      "fechaAlta": "2025-06-10",
+      "balanceUSD": 120
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "684b89446faba3c60f6b8ad4"
+  },
+  "nombre": "Gabriel Méndez",
+  "email": "gabriel.mendez@mail.com",
+  "fechaRegistro": "2025-06-11",
+  "pais": "Paraguay",
+  "wallets": [
+    {
+      "direccion": "0xGabUNI3",
+      "cripto": "UNI",
+      "balance": 20
+    }
+  ],
+  "cuentasExchange": [
+    {
+      "exchangeId": "684b857e6faba3c60f6b8ac5",
+      "usuarioExchange": "gab_mz",
+      "nivelVerificacion": "KYC completo",
+      "fechaAlta": "2025-06-11",
+      "balanceUSD": 430
+    },
+    {
+      "exchangeId": "684b857e6faba3c60f6b8ac8",
+      "usuarioExchange": "gabrieluni",
+      "nivelVerificacion": "Intermedio",
+      "fechaAlta": "2025-06-12",
+      "balanceUSD": 300
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "684b89446faba3c60f6b8ad5"
+  },
+  "nombre": "Fernanda Castro",
+  "email": "fernanda.castro@mail.com",
+  "fechaRegistro": "2025-06-12",
+  "pais": "Costa Rica",
+  "wallets": [
+    {
+      "direccion": "0xFerXRP111",
+      "cripto": "XRP",
+      "balance": 800
+    }
+  ],
+  "cuentasExchange": [
+    {
+      "exchangeId": "684b857e6faba3c60f6b8ace",
+      "usuarioExchange": "fer_castro",
+      "nivelVerificacion": "KYC completo",
+      "fechaAlta": "2025-06-12",
+      "balanceUSD": 650
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "684b89446faba3c60f6b8ad6"
+  },
+  "nombre": "Tomás Silva",
+  "email": "tomas.silva@mail.com",
+  "fechaRegistro": "2025-06-09",
+  "pais": "Chile",
+  "wallets": [
+    {
+      "direccion": "0xTomiADA77",
+      "cripto": "ADA",
+      "balance": 300
+    }
+  ],
+  "cuentasExchange": [
+    {
+      "exchangeId": "684b857e6faba3c60f6b8ac7",
+      "usuarioExchange": "tsilva_ada",
+      "nivelVerificacion": "Básico",
+      "fechaAlta": "2025-06-10",
+      "balanceUSD": 210
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "684b89446faba3c60f6b8ad7"
+  },
+  "nombre": "Mariana Torres",
+  "email": "mariana.torres@mail.com",
+  "fechaRegistro": "2025-06-10",
+  "pais": "Argentina",
+  "wallets": [
+    {
+      "direccion": "0xMariDOGE",
+      "cripto": "DOGE",
+      "balance": 5000
+    }
+  ],
+  "cuentasExchange": [
+    {
+      "exchangeId": "684b857e6faba3c60f6b8acb",
+      "usuarioExchange": "mari_doge",
+      "nivelVerificacion": "Intermedio",
+      "fechaAlta": "2025-06-10",
+      "balanceUSD": 320
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "684b89446faba3c60f6b8ad8"
+  },
+  "nombre": "Cristian Ríos",
+  "email": "cristian.rios@mail.com",
+  "fechaRegistro": "2025-06-08",
+  "pais": "Perú",
+  "wallets": [
+    {
+      "direccion": "0xCrisSOL333",
+      "cripto": "SOL",
+      "balance": 15
+    }
+  ],
+  "cuentasExchange": [
+    {
+      "exchangeId": "684b857e6faba3c60f6b8ac8",
+      "usuarioExchange": "crios",
+      "nivelVerificacion": "Básico",
+      "fechaAlta": "2025-06-09",
+      "balanceUSD": 400
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "684b89446faba3c60f6b8ad9"
+  },
+  "nombre": "Natalia Gómez",
+  "email": "natalia.gomez@mail.com",
+  "fechaRegistro": "2025-06-11",
+  "pais": "Colombia",
+  "wallets": [
+    {
+      "direccion": "0xNatiLINK66",
+      "cripto": "LINK",
+      "balance": 42
+    }
+  ],
+  "cuentasExchange": [
+    {
+      "exchangeId": "684b857e6faba3c60f6b8ac6",
+      "usuarioExchange": "natalink",
+      "nivelVerificacion": "KYC completo",
+      "fechaAlta": "2025-06-11",
+      "balanceUSD": 750
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "684b89446faba3c60f6b8ada"
+  },
+  "nombre": "Andrés Suárez",
+  "email": "andres.suarez@mail.com",
+  "fechaRegistro": "2025-06-07",
+  "pais": "México",
+  "wallets": [
+    {
+      "direccion": "0xAndLTC999",
+      "cripto": "LTC",
+      "balance": 3.5
+    }
+  ],
+  "cuentasExchange": [
+    {
+      "exchangeId": "684b857e6faba3c60f6b8ac4",
+      "usuarioExchange": "andresltc",
+      "nivelVerificacion": "KYC completo",
+      "fechaAlta": "2025-06-07",
+      "balanceUSD": 590
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "684b89446faba3c60f6b8adb"
+  },
+  "nombre": "Paula Rivas",
+  "email": "paula.rivas@mail.com",
+  "fechaRegistro": "2025-06-12",
+  "pais": "Panamá",
+  "wallets": [
+    {
+      "direccion": "0xPauAVAX01",
+      "cripto": "AVAX",
+      "balance": 10
+    }
+  ],
+  "cuentasExchange": [
+    {
+      "exchangeId": "684b857e6faba3c60f6b8aca",
+      "usuarioExchange": "privas_avx",
+      "nivelVerificacion": "Intermedio",
+      "fechaAlta": "2025-06-12",
+      "balanceUSD": 330
+    }
+  ]
+}]

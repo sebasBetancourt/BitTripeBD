@@ -1,0 +1,243 @@
+[{
+  "_id": {
+    "$oid": "684b857e6faba3c60f6b8ac4"
+  },
+  "nombre": "Binance",
+  "pais": "Internacional",
+  "monedasDisponibles": [
+    "BTC",
+    "ETH",
+    "BNB",
+    "XRP",
+    "DOGE",
+    "SHIB",
+    "UNI"
+  ],
+  "comisiones": {
+    "compra": 0.1,
+    "venta": 0.1
+  },
+  "usuariosRegistrados": 150000000,
+  "volumenDiarioUSD": 76000000000
+},
+{
+  "_id": {
+    "$oid": "684b857e6faba3c60f6b8ac5"
+  },
+  "nombre": "Coinbase",
+  "pais": "Estados Unidos",
+  "monedasDisponibles": [
+    "BTC",
+    "ETH",
+    "LTC",
+    "DOT",
+    "SHIB",
+    "UNI"
+  ],
+  "comisiones": {
+    "compra": 1.49,
+    "venta": 1.49
+  },
+  "usuariosRegistrados": 98000000,
+  "volumenDiarioUSD": 2500000000
+},
+{
+  "_id": {
+    "$oid": "684b857e6faba3c60f6b8ac6"
+  },
+  "nombre": "Kraken",
+  "pais": "Estados Unidos",
+  "monedasDisponibles": [
+    "BTC",
+    "ETH",
+    "XRP",
+    "LTC",
+    "DOT"
+  ],
+  "comisiones": {
+    "compra": 0.26,
+    "venta": 0.26
+  },
+  "usuariosRegistrados": 12000000,
+  "volumenDiarioUSD": 600000000
+},
+{
+  "_id": {
+    "$oid": "684b857e6faba3c60f6b8ac7"
+  },
+  "nombre": "Bitso",
+  "pais": "México",
+  "monedasDisponibles": [
+    "BTC",
+    "ETH",
+    "XRP",
+    "SHIB",
+    "DOGE"
+  ],
+  "comisiones": {
+    "compra": 0.5,
+    "venta": 0.5
+  },
+  "usuariosRegistrados": 7000000,
+  "volumenDiarioUSD": 25000000
+},
+{
+  "_id": {
+    "$oid": "684b857e6faba3c60f6b8ac8"
+  },
+  "nombre": "KuCoin",
+  "pais": "Seychelles",
+  "monedasDisponibles": [
+    "BTC",
+    "ETH",
+    "DOT",
+    "UNI",
+    "SHIB",
+    "XRP",
+    "LTC"
+  ],
+  "comisiones": {
+    "compra": 0.1,
+    "venta": 0.1
+  },
+  "usuariosRegistrados": 30000000,
+  "volumenDiarioUSD": 1500000000
+},
+{
+  "_id": {
+    "$oid": "684b857e6faba3c60f6b8ac9"
+  },
+  "nombre": "Bitfinex",
+  "pais": "Hong Kong",
+  "monedasDisponibles": [
+    "BTC",
+    "ETH",
+    "XRP",
+    "DOGE",
+    "LTC"
+  ],
+  "comisiones": {
+    "compra": 0.2,
+    "venta": 0.2
+  },
+  "usuariosRegistrados": 4500000,
+  "volumenDiarioUSD": 900000000
+},
+{
+  "_id": {
+    "$oid": "684b857e6faba3c60f6b8aca"
+  },
+  "nombre": "Gate.io",
+  "pais": "Islas Caimán",
+  "monedasDisponibles": [
+    "BTC",
+    "ETH",
+    "DOT",
+    "SHIB",
+    "UNI"
+  ],
+  "comisiones": {
+    "compra": 0.2,
+    "venta": 0.2
+  },
+  "usuariosRegistrados": 10000000,
+  "volumenDiarioUSD": 850000000
+},
+{
+  "_id": {
+    "$oid": "684b857e6faba3c60f6b8acb"
+  },
+  "nombre": "Bybit",
+  "pais": "Singapur",
+  "monedasDisponibles": [
+    "BTC",
+    "ETH",
+    "XRP",
+    "DOT",
+    "DOGE",
+    "SHIB"
+  ],
+  "comisiones": {
+    "compra": 0.075,
+    "venta": 0.075
+  },
+  "usuariosRegistrados": 25000000,
+  "volumenDiarioUSD": 2700000000
+},
+{
+  "_id": {
+    "$oid": "684b857e6faba3c60f6b8acc"
+  },
+  "nombre": "OKX",
+  "pais": "Seychelles",
+  "monedasDisponibles": [
+    "BTC",
+    "ETH",
+    "XRP",
+    "DOT",
+    "SHIB",
+    "UNI"
+  ],
+  "comisiones": {
+    "compra": 0.08,
+    "venta": 0.08
+  },
+  "usuariosRegistrados": 30000000,
+  "volumenDiarioUSD": 5000000000
+},
+{
+  "_id": {
+    "$oid": "684b857e6faba3c60f6b8acd"
+  },
+  "nombre": "BitMart",
+  "pais": "Islas Caimán",
+  "monedasDisponibles": [
+    "BTC",
+    "ETH",
+    "DOGE",
+    "SHIB",
+    "LTC"
+  ],
+  "comisiones": {
+    "compra": 0.25,
+    "venta": 0.25
+  },
+  "usuariosRegistrados": 9000000,
+  "volumenDiarioUSD": 400000000
+},
+{
+  "_id": {
+    "$oid": "684b857e6faba3c60f6b8ace"
+  },
+  "nombre": "Rippex",
+  "pais": "Brasil",
+  "monedasDisponibles": [
+    "BTC",
+    "XRP"
+  ],
+  "comisiones": {
+    "compra": 0.3,
+    "venta": 0.3
+  },
+  "usuariosRegistrados": 2000000,
+  "volumenDiarioUSD": 18000000
+},
+{
+  "_id": {
+    "$oid": "684b857e6faba3c60f6b8acf"
+  },
+  "nombre": "AndesCrypto",
+  "pais": "Chile",
+  "monedasDisponibles": [
+    "BTC",
+    "ETH",
+    "SHIB",
+    "DOT"
+  ],
+  "comisiones": {
+    "compra": 0.4,
+    "venta": 0.4
+  },
+  "usuariosRegistrados": 1500000,
+  "volumenDiarioUSD": 12500000
+}]

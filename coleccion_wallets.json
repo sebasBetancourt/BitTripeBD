@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "684b8225763d74d56ae19797"
+  },
+  "usuarioId": "684b89446faba3c60f6b8ad0",
+  "direccion": "0xJaviLuna123",
+  "cripto": "BTC",
+  "balance": 0.035
+},
+{
+  "_id": {
+    "$oid": "684b8225763d74d56ae19798"
+  },
+  "usuarioId": "684b89446faba3c60f6b8ad1",
+  "direccion": "0xValeD123",
+  "cripto": "ETH",
+  "balance": 1.4
+},
+{
+  "_id": {
+    "$oid": "684b8225763d74d56ae19799"
+  },
+  "usuarioId": "684b89446faba3c60f6b8ad2",
+  "direccion": "0xDanHerrer4",
+  "cripto": "SOL",
+  "balance": 15
+},
+{
+  "_id": {
+    "$oid": "684b8225763d74d56ae1979a"
+  },
+  "usuarioId": "684b89446faba3c60f6b8ad3",
+  "direccion": "0xIsaRey456",
+  "cripto": "DOGE",
+  "balance": 5000
+},
+{
+  "_id": {
+    "$oid": "684b8225763d74d56ae1979b"
+  },
+  "usuarioId": "684b89446faba3c60f6b8ad4",
+  "direccion": "0xGabMen789",
+  "cripto": "ADA",
+  "balance": 320
+},
+{
+  "_id": {
+    "$oid": "684b8225763d74d56ae1979c"
+  },
+  "usuarioId": "684b89446faba3c60f6b8ad5",
+  "direccion": "0xFerCastr098",
+  "cripto": "BNB",
+  "balance": 4.3
+},
+{
+  "_id": {
+    "$oid": "684b8225763d74d56ae1979d"
+  },
+  "usuarioId": "684b89446faba3c60f6b8ad0",
+  "direccion": "0xJaviETH88",
+  "cripto": "ETH",
+  "balance": 0.8
+},
+{
+  "_id": {
+    "$oid": "684b8225763d74d56ae1979e"
+  },
+  "usuarioId": "684b89446faba3c60f6b8ad1",
+  "direccion": "0xValeBTC999",
+  "cripto": "BTC",
+  "balance": 0.01
+},
+{
+  "_id": {
+    "$oid": "684b8225763d74d56ae1979f"
+  },
+  "usuarioId": "684b89446faba3c60f6b8ad2",
+  "direccion": "0xDanDOT321",
+  "cripto": "DOT",
+  "balance": 50
+},
+{
+  "_id": {
+    "$oid": "684b8225763d74d56ae197a0"
+  },
+  "usuarioId": "684b89446faba3c60f6b8ad3",
+  "direccion": "0xIsaSHIB7",
+  "cripto": "SHIB",
+  "balance": 1200000
+},
+{
+  "_id": {
+    "$oid": "684b8225763d74d56ae197a1"
+  },
+  "usuarioId": "684b89446faba3c60f6b8ad4",
+  "direccion": "0xGabUNI3",
+  "cripto": "UNI",
+  "balance": 20
+},
+{
+  "_id": {
+    "$oid": "684b8225763d74d56ae197a2"
+  },
+  "usuarioId": "684b89446faba3c60f6b8ad5",
+  "direccion": "0xFerXRP111",
+  "cripto": "XRP",
+  "balance": 800
+}]

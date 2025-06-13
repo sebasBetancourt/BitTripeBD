@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "684b8359763d74d56ae197a3"
+  },
+  "cripto": "ETH",
+  "de": "0xJaviETH88",
+  "para": "0xFerXRP111",
+  "cantidad": 0.3,
+  "comision": 0.005,
+  "fecha": {
+    "$date": "2025-06-10T14:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684b8359763d74d56ae197a4"
+  },
+  "cripto": "BTC",
+  "de": "0xValeBTC999",
+  "para": "0xJaviETH88",
+  "cantidad": 0.007,
+  "comision": 0.0001,
+  "fecha": {
+    "$date": "2025-06-11T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684b8359763d74d56ae197a5"
+  },
+  "cripto": "DOT",
+  "de": "0xDanDOT321",
+  "para": "0xIsaSHIB7",
+  "cantidad": 15,
+  "comision": 0.2,
+  "fecha": {
+    "$date": "2025-06-11T22:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684b8359763d74d56ae197a6"
+  },
+  "cripto": "SHIB",
+  "de": "0xIsaSHIB7",
+  "para": "0xGabUNI3",
+  "cantidad": 300000,
+  "comision": 250,
+  "fecha": {
+    "$date": "2025-06-12T16:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684b8359763d74d56ae197a7"
+  },
+  "cripto": "UNI",
+  "de": "0xGabUNI3",
+  "para": "0xValeBTC999",
+  "cantidad": 4.5,
+  "comision": 0.05,
+  "fecha": {
+    "$date": "2025-06-13T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684b8359763d74d56ae197a8"
+  },
+  "cripto": "XRP",
+  "de": "0xFerXRP111",
+  "para": "0xDanDOT321",
+  "cantidad": 120,
+  "comision": 0.3,
+  "fecha": {
+    "$date": "2025-06-13T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684b8359763d74d56ae197a9"
+  },
+  "cripto": "SHIB",
+  "de": "0xIsaSHIB7",
+  "para": "0xJaviETH88",
+  "cantidad": 500000,
+  "comision": 200,
+  "fecha": {
+    "$date": "2025-06-14T08:50:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684b8359763d74d56ae197aa"
+  },
+  "cripto": "DOT",
+  "de": "0xDanDOT321",
+  "para": "0xFerXRP111",
+  "cantidad": 20,
+  "comision": 0.1,
+  "fecha": {
+    "$date": "2025-06-14T11:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684b8359763d74d56ae197ab"
+  },
+  "cripto": "UNI",
+  "de": "0xGabUNI3",
+  "para": "0xDanDOT321",
+  "cantidad": 3,
+  "comision": 0.02,
+  "fecha": {
+    "$date": "2025-06-14T13:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684b8359763d74d56ae197ac"
+  },
+  "cripto": "BTC",
+  "de": "0xValeBTC999",
+  "para": "0xIsaSHIB7",
+  "cantidad": 0.002,
+  "comision": 0.00005,
+  "fecha": {
+    "$date": "2025-06-15T10:20:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684b8359763d74d56ae197ad"
+  },
+  "cripto": "XRP",
+  "de": "0xFerXRP111",
+  "para": "0xGabUNI3",
+  "cantidad": 60,
+  "comision": 0.15,
+  "fecha": {
+    "$date": "2025-06-15T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684b8359763d74d56ae197ae"
+  },
+  "cripto": "ETH",
+  "de": "0xJaviETH88",
+  "para": "0xDanDOT321",
+  "cantidad": 0.25,
+  "comision": 0.004,
+  "fecha": {
+    "$date": "2025-06-16T09:30:00.000Z"
+  }
+}]
