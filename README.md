@@ -56,7 +56,7 @@ Esta consulta es útil en el buscador inteligente de BitTribe. Permite que al es
 ####  Buscar criptomonedas cuyo símbolo empiece con "B"
 
 ```
-db.criptomonedas.find({ "simbolo": { "$regex": "^B" } })
+db.criptoCoins.find({ "simbolo": { "$regex": "^B" } })
 ```
 BitTribe podría usar esta consulta para ofrecer filtros alfabéticos o listas rápidas de monedas por símbolo, por ejemplo todas las que comienzan por “B” como BTC, BNB, BAT. Esto también es útil en interfaces móviles donde se muestran listas categorizadas o para generar menús de navegación rápida por inicial.
 
@@ -65,7 +65,7 @@ BitTribe podría usar esta consulta para ofrecer filtros alfabéticos o listas r
 ####  Buscar usuarios cuyo correo contenga "mail"
 
 ```
-db.usuarios.find({ "email": { "$regex": "mail", "$options": "i" } })
+db.users.find({ "email": { "$regex": "mail", "$options": "i" } })
 ```
  Permite conocer la proporción de usuarios que usan correos de Gmail, lo cual puede ser útil para estadísticas internas, pruebas A/B, o incluso adaptar validaciones o recomendaciones de seguridad. También puede ayudar en campañas promocionales o segmentadas si se desea enviar correos.
 
@@ -132,7 +132,7 @@ db.criptoCoins.find({ blockchain: { $regex: "^E", $options: "i" } })
 ####  Criptos cuyo tipo sea un token (usando RegEx flexible)
 
 ```
-db.criptomonedas.find({ "simbolo": { "$regex": "^B" } })
+db.criptoCoins.find({ "simbolo": { "$regex": "^B" } })
 ```
 Filtrar solo tokens para recomendaciones en wallets tipo ERC-20 o compatibles.
 
